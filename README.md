@@ -1,2 +1,2 @@
 # UsabilityHUb-Clone
-This is a clone website created with HTML CSS and JAVASCRIPT
+This is a clone website created with HTML and CSS
