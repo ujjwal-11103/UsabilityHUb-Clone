@@ -1,2 +1,4 @@
 # UsabilityHub-Clone
-This is a clone website of UsabilityHub created with HTML and CSS
+- This is a clone of the UsabilityHub website
+- Made with HTML CSS
+- Responsive website
